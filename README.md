@@ -16,3 +16,9 @@ Designed for 3.5mm thick wood sheets, I used birch.
 
 Wiring Diagram:
 <img width="1501" height="1301" alt="Screenshot 2025-07-11 154943" src="https://github.com/user-attachments/assets/7c0aa386-26f7-4e0f-9d31-bf64ecc6e2c6" />
+
+Assembly:
+![20250711_142052](https://github.com/user-attachments/assets/1c7077a9-7928-421c-b63f-cbc4b6b7bd3c)
+
+Finished lamp:
+![20250711_150945(1)](https://github.com/user-attachments/assets/3d9211f4-e246-40ca-b1bf-19c9d0f3c9d0)
