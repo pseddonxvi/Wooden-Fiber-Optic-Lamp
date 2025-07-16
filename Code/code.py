@@ -3,7 +3,7 @@ import neopixel
 from ledPixelsPico import *
 import touchio
 
-nPix = 34
+nPix = 35
 
 pix = ledPixels(nPix, board.GP27)
 #pix = ledPixels(nPix, board.GP15)
