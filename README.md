@@ -1,5 +1,6 @@
-# Wooden-Fiber-Optic-Lamp
+# Wooden Fiber Optic Lamp
 A laser-cut fiber optic lamp using WS2812 Neopixel LEDs, a capacitive touch sensor, and Waveshare's RP2040-Zero.
+Inspired by: https://www.instructables.com/Fiber-Optic-LED-Lamp/
 
 RP2040-Zero:
 https://www.waveshare.com/rp2040-zero.htm
