@@ -5,11 +5,9 @@ import touchio
 
 nPix = 35
 
-pix = ledPixels(nPix, board.GP27)
-#pix = ledPixels(nPix, board.GP15)
+pix = ledPixels(nPix, board.GP28)
 
-touch = touchio.TouchIn(board.GP28)
-#touch = touchio.TouchIn(board.GP16)
+touch = touchio.TouchIn(board.GP29)
 print("Start touch", touch.value)
 
 switch = True
