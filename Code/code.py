@@ -1,3 +1,8 @@
+# Wooden LED Fiber Optic Lamp, by Peter Seddon
+# https://github.com/pseddonxvi/Wooden-Fiber-Optic-Lamp?tab=readme-ov-file
+# S/N
+# Mfg. date:
+
 import board
 import neopixel
 from ledPixelsPico import *
