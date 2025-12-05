@@ -2,6 +2,7 @@
 # https://github.com/pseddonxvi/Wooden-Fiber-Optic-Lamp?tab=readme-ov-file
 # S/N
 # Mfg. date:
+# FW date: 12/3/25
 
 import board
 import neopixel
@@ -10,9 +11,9 @@ import touchio
 
 nPix = 35
 
-pix = ledPixels(nPix, board.GP28)
+pix = ledPixels(nPix, board.GP0)
 
-touch = touchio.TouchIn(board.GP29)
+touch = touchio.TouchIn(board.GP1)
 print("Start touch", touch.value)
 
 switch = True
